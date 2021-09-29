@@ -1,0 +1,2 @@
+﻿ass class work.obj : error LNK2019: ссылка на неразрешенный внешний символ _Maxsum@8 в функции _main
+C:\Users\Ola\source\repos\Debug\ass class work.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
